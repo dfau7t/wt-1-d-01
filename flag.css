@@ -1,0 +1,33 @@
+body {
+    background: #ddd;
+  }
+  
+  .flag {
+    height: 200px;
+    width: 300px;
+    background: #fff;
+    position: absolute;
+    margin: auto;    
+  }
+
+  .right {
+    float: right;
+  }
+
+  .box {
+    height: 200px;
+    width: 100px;
+  }
+
+  .red {
+    background-color: red;
+  }
+
+  .white {
+    background-color: white;
+  }
+
+  .blue {
+    background-color: blue;
+  }
+
